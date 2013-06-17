@@ -57,7 +57,7 @@ LS_HOME=/usr/share/logstash
 LOG_DIR=/var/log
 
 # logstash configuration (supports file, directory and glob)
-CONF=/etc/logstash
+CONF=/etc/logstash/active/
 
 # logstash log file
 LOG_FILE=$LOG_DIR/logstash.log
