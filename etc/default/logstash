@@ -10,4 +10,4 @@ LS_JAVA_OPTS="-Xms512m -Xmx512m"
 LOG_DIR=/var/log
 
 # logstash configuration (supports file, directory and glob)
-CONF=/etc/logstash
+CONF=/etc/logstash/active
